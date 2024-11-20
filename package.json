@@ -1,0 +1,11 @@
+{
+  "name": "trabajo-final",
+  "version": "1.0.0",
+  "description": "Trabajo Final",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luna Roberto Ivan",
+  "license": "ISC"
+}
